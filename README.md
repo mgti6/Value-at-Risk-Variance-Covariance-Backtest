@@ -72,6 +72,6 @@ The expected exception rate for 99% VaR is **1%**.
 ---
 
 ## 📚 References
-- **Hull, John C.** (2018). *Risk Management and Financial Institutions*, 5th Edition.  
+- **Hull, John C.** (2018). *Options, Futures, and Other Derivatives* (10th Edition). Pearson Education.  
 ---
 
