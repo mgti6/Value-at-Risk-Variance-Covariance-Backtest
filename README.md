@@ -11,7 +11,7 @@ The goal of this notebook is to:
 - Estimate the **daily portfolio VaR** based on the variance-covariance method  
 - Perform a **rolling backtest** to compare predicted VaR to actual daily losses  
 - Measure how often losses exceed VaR (exceptions)  
-- Statistically validate the coverage rate using the **Kupiec test**
+
 
 ---
 
