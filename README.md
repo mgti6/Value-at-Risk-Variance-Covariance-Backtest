@@ -1,8 +1,7 @@
 # 📊 Value-at-Risk (VaR) – Variance-Covariance Backtest
 
 This project implements the **1-day 99% Value at Risk (VaR)** using the **variance-covariance (model building) approach**.  
-It also includes a **rolling-window backtest** to evaluate the model’s accuracy following **Hull’s methodology**, as well as the **Kupiec unconditional coverage test** to statistically validate the results.
-
+It also includes a **rolling-window backtest** to evaluate the model’s accuracy following **Hull’s methodology**.
 ---
 
 ## 🧠 Overview
